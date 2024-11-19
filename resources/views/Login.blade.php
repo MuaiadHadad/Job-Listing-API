@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>RegistrationForm_v10 by Colorlib</title>
+		<title>Dream Job</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<!-- LINEARICONS -->
